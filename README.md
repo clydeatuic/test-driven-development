@@ -44,7 +44,8 @@ $ heroku open
 # On your First Terminal
 $ npm install selenium-standalone -g
 $ npm install webdriverio --save-dev
-$ mkdir test/e2e.js
+$ mkdir test
+$ touch e2e.js
 
 # On your Second Terminal
 $ selenium-standalone install
