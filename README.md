@@ -109,3 +109,8 @@ describe('webdriver.io.page',function(){
 
 
 ```
+
+### Deliverable
+File: Test Scenario Matrix
+Document Type: PDF
+Submit To: cbalamanatuic@gmail.com
